@@ -3,8 +3,7 @@
   <h2>QA Engineer</h2>
 </div>
 
-- 🔭 I’m currently studying at RedRover school
-- 🌱 I’m currently learning Python with automation in selenium
+- 🌱 I’m currently studying at RedRover school and learning Python with automation in selenium
 
 
 ### Languages and Tools:

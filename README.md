@@ -3,10 +3,9 @@
   <h2>QA Engineer</h2>
 </div>
 
-Languages and Tools:
-<i class="devicon-git-plain"></i>
-
-
+### Languages and Tools:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" title="git" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" title="Selenium" width="40" height="40"/>&nbsp;
 
 
 

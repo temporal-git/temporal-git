@@ -3,6 +3,9 @@
   <h2>QA Engineer</h2>
 </div>
 
+- 🔭 I’m currently studying at RedRover school.
+- 🌱 I’m currently learning Python with automation in selenium.
+
 ### Languages and Tools:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" title="git" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" title="Selenium" width="40" height="40"/>&nbsp;

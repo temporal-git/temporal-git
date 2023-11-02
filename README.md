@@ -6,8 +6,9 @@
 - 🔭 I’m currently studying at RedRover school
 - 🌱 I’m currently learning Python with automation in selenium
 
-<div align="center">
+
 ### Languages and Tools:
+<div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" title="git" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" title="Selenium" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;

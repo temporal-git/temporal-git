@@ -4,10 +4,7 @@
 </div>
 
 Languages and Tools:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
-
+<i class="devicon-git-plain"></i>
 
 
 

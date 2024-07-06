@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-<img src="https://disk.yandex.ru/client/disk/git?idApp=client&dialog=slider&idDialog=%2Fdisk%2Fgit%2Fstack_meme.jpg" title="stack" width="600" height="579"/>&nbsp;
+<img src="https://live.staticflickr.com/65535/53839653156_fea6a7506b_z.jpg" title="stack" width="600" height="579"/>&nbsp;
 </div>
 <!--
 **temporal-git/temporal-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

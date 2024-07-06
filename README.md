@@ -15,6 +15,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="sql" width="40" height="40"/>&nbsp;
 </div>
 
+<div align="center">
+<img src="https://disk.yandex.ru/client/disk/git?idApp=client&dialog=slider&idDialog=%2Fdisk%2Fgit%2Fstack_meme.jpg" title="stack" width="600" height="579"/>&nbsp;
+</div>
 <!--
 **temporal-git/temporal-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -13,7 +13,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" "/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="sql" width="40" height="40"/>&nbsp;
-<img src="https://www.codewars.com/users/Az0g/badges/micro?theme=dark" title="codewars" />&nbsp;
+<a href="https://www.codewars.com/users/Az0g/"><img src="https://www.codewars.com/users/Az0g/badges/micro?theme=dark" title="codewars" /></a>&nbsp;
 </div>
 
 
